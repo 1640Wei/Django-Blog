@@ -8,19 +8,26 @@ Hello, I am Wei. ✏️
 ### Description:
 
 ### Technologies Used:
-- **Python+**: Python programming language.  
+- **Python**: Python programming language.  
 
-### Project Structure:：
+### Project Structure:
+
 + Blog
-  + static
+  + static/blog
     + `main.css`:
-  + templates
+  + templates/blog
     + `about.html`:
     + `base.html`:
     + `home.html`:
     + `post_confirm_delete.html`:
     + `post_detail.html`:
     + `post_form.html`:
+  + `admin.py`:
+  + `apps.py`:
+  + `models.py`:
+  + `tests.py`:
+  + `urls.py`:
+  + `views.py`:
 
 
 ### Example:
