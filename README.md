@@ -14,8 +14,14 @@ Hello, I am Wei. ✏️
 + Blog
   + static
     + `main.css`:
+  + templates
+    + `about.html`:
+    + `base.html`:
+    + `home.html`:
+    + `post_confirm_delete.html`:
+    + `post_detail.html`:
+    + `post_form.html`:
 
-- `D.py`：
 
 ### Example:
 
