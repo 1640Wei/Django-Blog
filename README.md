@@ -13,7 +13,7 @@ Hello, I am Wei. ✏️
 ### Project Structure:：
 + Blog
   + static
-    + main.css
+    + `main.css`:
 
 - `D.py`：
 
