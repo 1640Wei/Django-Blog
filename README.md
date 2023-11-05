@@ -11,9 +11,9 @@ Hello, I am Wei. ✏️
 - **Python+**: Python programming language.  
 
 ### Project Structure:：
-+ item `2020-10`
-  + item `10/20 done`
-  + item `10/25 done`
++ Blog
+  + static
+    + main.css
 
 - `D.py`：
 
