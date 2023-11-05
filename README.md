@@ -29,6 +29,23 @@ Hello, I am Wei. ✏️
   + `urls.py`:
   + `views.py`:
 
++ django_project
+  + `asgi.py`:
+  + `settings.py`:
+  + `urls.py`:
+  + `wsgi.py`:
+    
++ media
+  + profile_pics:
+
++ user
+  + tmeplates/users:
+    + `login.html`:
+    + `logout.html`:
+    + `profile.html`:
+    + `register.html`:
+  + `admin.py`:
+
 
 ### Example:
 
