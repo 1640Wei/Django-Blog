@@ -39,12 +39,20 @@ Hello, I am Wei. ✏️
   + profile_pics:
 
 + user
-  + tmeplates/users:
+  + tmeplates/users
     + `login.html`:
     + `logout.html`:
     + `profile.html`:
     + `register.html`:
   + `admin.py`:
+  + `apps.py`:
+  + `forms.py`:
+  + `models.py`:
+  + `signals.py`:
+  + `atests.py`:
+  + `views.py`:
+
++ `manage.py`:
 
 
 ### Example:
