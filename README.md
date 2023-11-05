@@ -11,6 +11,9 @@ Hello, I am Wei. ✏️
 - **Python+**: Python programming language.  
 
 ### Project Structure:：
++Blog:
+  +static:
+    +  `main.css`：
 - `D.py`：
 
 ### Example:
